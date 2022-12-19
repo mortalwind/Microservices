@@ -1,0 +1,48 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{9A4C4CCD-4D61-4948-98B3-2FCC0E55242F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Products.Products.Services FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Customer.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Products/Products.Models/ProductProperty.cs">
+    <Files>
+      <File FileName="Products/Products.Models/Product.cs" Line="5" Column="16" />
+      <File FileName="Products/Products.Models/ProductImage.cs" Line="4" Column="30" />
+      <File FileName="Products/Products.Models/ProductProperty.cs" Line="6" Column="3" />
+      <File FileName="Products/Products.Services/ProductService.cs" Line="1" Column="1" />
+      <File FileName="Products/Products.Services/CategoryService.cs" Line="1" Column="1" />
+      <File FileName="Products/Products.Api/Controllers/ProductsController.cs" />
+      <File FileName="Products/Products.Api/Controllers/CategoriesController.cs" />
+      <File FileName="docker-compose.yml" Line="41" Column="34" />
+      <File FileName="Products/Products.Api/Dockerfile" />
+      <File FileName="Products/Products.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="Products/Products.Api/Program.cs" Line="1" Column="1" />
+      <File FileName="Products/Products.Infrastracture/Abstractions/IElasticSearchService.cs" Line="4" Column="43" />
+      <File FileName="Products/Products.Models/BaseEntity.cs" Line="4" Column="34" />
+      <File FileName="Products/Products.Models/Category.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices" expanded="True">
+            <Node name="Products" expanded="True">
+              <Node name="Products.Infrastracture" expanded="True">
+                <Node name="Abstractions" expanded="True" />
+              </Node>
+              <Node name="Products.Models" expanded="True">
+                <Node name="ProductProperty.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Products.Products.Infrastracture FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Customers.Customers.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Carts.Carts.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Products.Products.Models FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

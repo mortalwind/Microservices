@@ -1,0 +1,12 @@
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/bin/Debug/net7.0/Customers.Models.deps.json
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/bin/Debug/net7.0/Customers.Models.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/bin/Debug/net7.0/Customers.Models.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.csproj.AssemblyReference.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.AssemblyInfoInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.AssemblyInfo.cs
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.csproj.CoreCompileInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/refint/Customers.Models.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/Customers.Models.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Models/obj/Debug/net7.0/ref/Customers.Models.dll

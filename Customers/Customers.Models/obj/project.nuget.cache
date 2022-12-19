@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQZMDWF0SkG4+5SIsygM7JEjNTSdm3R1tcSs5pRnA380WAyKknQ1KZra0SVqFCuZaav9sYoVFfIAaQYUWoOFfQ==",
+  "success": true,
+  "projectFilePath": "/Users/ferhatkarabulut/Desktop/Projects/Microservices/Customers/Customers.Models/Customers.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/ferhatkarabulut/.nuget/packages/microsoft.aspnetcore.dataprotection.abstractions/7.0.0/microsoft.aspnetcore.dataprotection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

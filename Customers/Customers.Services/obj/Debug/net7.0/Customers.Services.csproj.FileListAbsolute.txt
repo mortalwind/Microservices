@@ -1,0 +1,17 @@
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Services.deps.json
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Services.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Services.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Infrastructure.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Models.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Infrastructure.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/bin/Debug/net7.0/Customers.Models.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.csproj.AssemblyReference.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.AssemblyInfoInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.AssemblyInfo.cs
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.csproj.CoreCompileInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.csproj.CopyComplete
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/refint/Customers.Services.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/Customers.Services.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Services/obj/Debug/net7.0/ref/Customers.Services.dll

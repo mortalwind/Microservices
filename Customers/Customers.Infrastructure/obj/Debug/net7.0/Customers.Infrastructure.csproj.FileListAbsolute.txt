@@ -1,0 +1,17 @@
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.csproj.AssemblyReference.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.AssemblyInfoInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.AssemblyInfo.cs
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Infrastructure.deps.json
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Infrastructure.runtimeconfig.json
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Infrastructure.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Infrastructure.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Models.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/bin/Debug/net7.0/Customers.Models.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.csproj.CopyComplete
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/refint/Customers.Infrastructure.dll
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.pdb
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/Customers.Infrastructure.genruntimeconfig.cache
+/Users/ferhatkarabulut/Projects/Microservices/Customers/Customers.Infrastructure/obj/Debug/net7.0/ref/Customers.Infrastructure.dll
