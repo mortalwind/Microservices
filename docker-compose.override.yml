@@ -1,0 +1,33 @@
+version: '3.4'
+
+services:
+  sqldata:
+    environment:
+      - MSSQL_SA_PASSWORD=P@ssW0rd1!
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"
+    volumes:
+      - customerapi-sqldata:/var/opt/mssql
+  customers.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+    ports:
+      - "53454:80"
+    volumes:
+      - ~/.aspnet/http:/root/.aspnet/http:ro
+      - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+  products.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+    ports:
+      - "80"
+      - "443"
+    volumes:
+      - ~/.aspnet/https:/root/.aspnet/https:ro
+      - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+volumes:
+  customerapi-sqldata:
+    external: false
